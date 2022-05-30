@@ -1,0 +1,18 @@
+{
+  "id": 1104,
+  "category": {
+    "id": 0,
+    "name": "string"
+  },
+  "name": "Moka",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "string"
+    }
+  ],
+  "status": "available"
+}

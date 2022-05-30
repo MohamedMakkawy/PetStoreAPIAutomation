@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-30T22:21:43 EET" name="Default suite" finished-at="2022-05-30T22:21:50 EET" duration-ms="7357">
+    <groups>
+    </groups>
+    <test started-at="2022-05-30T22:21:43 EET" name="Default test" finished-at="2022-05-30T22:21:50 EET" duration-ms="7357">
+      <class name="PetStoreAPIAutomation.PetStoreAPIAutomation.PetsStoreTests">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:PetStoreAPIAutomation.PetStoreAPIAutomation.PetsStoreTests@5bd03f44]" started-at="2022-05-30T22:21:43 EET" name="beforeTest" finished-at="2022-05-30T22:21:44 EET" duration-ms="897" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="GetAvailablePets()[pri:1, instance:PetStoreAPIAutomation.PetStoreAPIAutomation.PetsStoreTests@5bd03f44]" started-at="2022-05-30T22:21:44 EET" name="GetAvailablePets" finished-at="2022-05-30T22:21:48 EET" duration-ms="3800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAvailablePets -->
+        <test-method signature="PostNewPets()[pri:2, instance:PetStoreAPIAutomation.PetStoreAPIAutomation.PetsStoreTests@5bd03f44]" started-at="2022-05-30T22:21:48 EET" name="PostNewPets" finished-at="2022-05-30T22:21:49 EET" duration-ms="962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostNewPets -->
+        <test-method signature="PutNewPets()[pri:3, instance:PetStoreAPIAutomation.PetStoreAPIAutomation.PetsStoreTests@5bd03f44]" started-at="2022-05-30T22:21:49 EET" name="PutNewPets" finished-at="2022-05-30T22:21:49 EET" duration-ms="797" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PutNewPets -->
+        <test-method signature="DeleteNewPets()[pri:4, instance:PetStoreAPIAutomation.PetStoreAPIAutomation.PetsStoreTests@5bd03f44]" started-at="2022-05-30T22:21:49 EET" name="DeleteNewPets" finished-at="2022-05-30T22:21:50 EET" duration-ms="847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteNewPets -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:PetStoreAPIAutomation.PetStoreAPIAutomation.PetsStoreTests@5bd03f44]" started-at="2022-05-30T22:21:50 EET" name="afterTest" finished-at="2022-05-30T22:21:50 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- PetStoreAPIAutomation.PetStoreAPIAutomation.PetsStoreTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
